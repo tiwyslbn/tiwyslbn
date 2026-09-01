@@ -1,54 +1,76 @@
-<h1 align="center">Tiwy</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=200&section=header&text=Tiwy&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Belajar%20PHP%20%26%20Web%20Development&descAlignY=58&descSize=18" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Belajar+PHP;Web+Development" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/tiwyslbn/tiwyslbn/main/tiwycntik.jpeg" width="150" style="border-radius:50%;border:3px solid #8A2BE2" />
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Sedang+belajar+PHP;Terbuka+untuk+kolaborasi+%26+diskusi;Terus+belajar%2C+terus+berkembang" alt="Typing SVG" />
+</p>
 
-### Tentang Saya
+<br>
+
+## Tentang Saya
+
 -
 
----
+<br>
 
-### Tech Stack
+## Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=php,html,css,js,mysql,git,vscode&theme=dark" />
 </p>
 
----
+<br>
 
-### GitHub Stats
+## GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tiwyslbn&show_icons=true&theme=tokyonight&hide_border=true" alt="tiwyslbn's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiwyslbn&theme=tokyonight&hide_border=true" alt="tiwyslbn's streak stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tiwyslbn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=10" alt="tiwyslbn's GitHub stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiwyslbn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=10" alt="Top Languages" height="170"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiwyslbn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiwyslbn&theme=tokyonight&hide_border=true&background=0D1117&border_radius=10" alt="tiwyslbn's streak stats" />
 </p>
 
----
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tiwyslbn&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" alt="Activity graph" width="100%"/>
+</p>
 
-### Pengalaman Magang
+<br>
 
-**Dinas Komunikasi dan Informatika Kab. Humbang Hasundutan** — Bidang Komunikasi dan Informatika
-*26 Juni – 29 September 2023*
-- Proyek perancangan dan simulasi jaringan komputer menggunakan Cisco Packet Tracer
+## Pengalaman Magang
 
-**Dinas Komunikasi dan Informatika Kab. Humbang Hasundutan** — Bidang Informatika
-*29 Juni – 31 Juli 2026*
-- Membuat proyek sistem manajemen perangkat jaringan intra pemerintah di Dinas Kominfo
+<table>
+<tr>
+<td>
 
----
+**Dinas Komunikasi dan Informatika Kab. Humbang Hasundutan**
+Bidang Komunikasi dan Informatika
+`26 Juni – 29 September 2023`
 
-### Kontak
+Proyek perancangan dan simulasi jaringan komputer menggunakan Cisco Packet Tracer
+
+</td>
+</tr>
+<tr>
+<td>
+
+**Dinas Komunikasi dan Informatika Kab. Humbang Hasundutan**
+Bidang Informatika
+`29 Juni – 31 Juli 2026`
+
+Membuat proyek sistem manajemen perangkat jaringan intra pemerintah di Dinas Kominfo
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Kontak
 
 <p align="left">
   <a href="https://instagram.com/dwy_slbn" target="_blank">
@@ -56,8 +78,10 @@
   </a>
 </p>
 
----
+<br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tiwyslbn&color=blueviolet&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=tiwyslbn&color=8A2BE2&style=flat" alt="Profile views" />
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:36BCF7&height=100&section=footer" />
