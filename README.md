@@ -57,7 +57,7 @@ Mahasiswa aktif Program Studi D3 Teknik Informatika ~ Universitas Sumatera Utara
 <tr>
 <td style="background-color:#FFF5F7">
 
-- Dinas Komunikasi dan Informatika Kab. Humbang Hasundutan**
+- Dinas Komunikasi dan Informatika Kab. Humbang Hasundutan ~
 Bidang Komunikasi dan Informatika
 `26 Juni – 29 September 2023`
 
@@ -68,7 +68,7 @@ Proyek perancangan dan simulasi jaringan komputer menggunakan Cisco Packet Trace
 <tr>
 <td style="background-color:#FFF5F7">
 
-- Dinas Komunikasi dan Informatika Kab. Humbang Hasundutan**
+- Dinas Komunikasi dan Informatika Kab. Humbang Hasundutan ~
 Bidang Informatika
 `29 Juni – 31 Juli 2026`
 
