@@ -51,37 +51,6 @@ Mahasiswa aktif Program Studi D3 Teknik Informatika ~ Universitas Sumatera Utara
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FFD1DC,100:FFB6C1&height=3&width=800" />
 </p>
 
-## Pengalaman Magang
-
-<table>
-<tr>
-<td style="background-color:#FFF5F7">
-
-- Dinas Komunikasi dan Informatika Kab. Humbang Hasundutan ~
-Bidang Komunikasi dan Informatika
-`26 Juni – 29 September 2023`
-
-Proyek perancangan dan simulasi jaringan komputer menggunakan Cisco Packet Tracer
-
-</td>
-</tr>
-<tr>
-<td style="background-color:#FFF5F7">
-
-- Dinas Komunikasi dan Informatika Kab. Humbang Hasundutan ~
-Bidang Informatika
-`29 Juni – 31 Juli 2026`
-
-Membuat proyek sistem manajemen perangkat jaringan pada Dinas Kominfo
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FFD1DC,100:FFB6C1&height=3&width=800" />
-</p>
-
 ## Kontak
 
 <p align="left">
