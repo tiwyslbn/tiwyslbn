@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" alt="Tiwy Lamberkat Banner" width="100%" />
+<img src="bannergithub.png" alt="Tiwy Lamberkat Banner" width="100%" />
 
 <br/>
 
